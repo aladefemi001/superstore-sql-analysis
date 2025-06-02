@@ -112,8 +112,6 @@ GROUP BY Segment;
 
 ## 📊 Visuals & Dashboards
 
-> You can view supporting dashboards on Tableau/Power BI:  
-> *(Add link here when available)*
 
 ---
 
